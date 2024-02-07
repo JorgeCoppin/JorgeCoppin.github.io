@@ -7,8 +7,8 @@ title: Publications
 
 <!-- Conference and Journal Publications -->
 ## Conference and Journal Publications
-Smith, D.J., Klima, R.L., MacKenzie, S.M., Ghariban, N., Resto, O., Bentil, M., Ortiz, A., **Coppin-Massanet, J.Y.**, Niebur, C., Rinehart, S., 
-2023. Here to Observe (H2O): Opening Doors to NASA Planetary Science Division (PSD) Missions and Mentors for Undergraduates from Underrepresented 
+Smith, D.J., Klima, R.L., MacKenzie, S.M., Ghariban, N., Resto, O., Bentil, M., Ortiz, A., **Coppin-Massanet, J.Y.**, Niebur, C., Rinehart, S., 2023. 
+Here to Observe (H2O): Opening Doors to NASA Planetary Science Division (PSD) Missions and Mentors for Undergraduates from Underrepresented 
 Institutions, in: LPI Contributions. Presented at the 54th Lunar and Planetary Science Conference, p. 1081.
 
 Dilworth, T.D., Craft, K.L., McQuillen, R.J., VanVolkenburg, T.B., Daitch, A.K., Person, C.M., Dunphy, L.J., Morrison, H.R., Harshman, J.S.,
