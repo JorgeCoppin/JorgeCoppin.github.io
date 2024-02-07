@@ -20,12 +20,14 @@ author: Jorge Coppin-Massanet
 ###############################################
 
 navbar-links:
-  Publications:
+  Publications: "publications"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Blog:
+    - Ongoing: "OngoingProjects"
+    - Past: "PastProjects"
+  Blog: "blog"
   About Me: "aboutme"
+    - CV: "cv"
+    - Contact Me: "contact"
 
 ################
 # --- Logo --- #
