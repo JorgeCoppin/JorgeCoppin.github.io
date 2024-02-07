@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Jorge Coppin-Massanet
 
 # Your name to show in the footer
 author: Jorge Coppin-Massanet
@@ -20,11 +20,12 @@ author: Jorge Coppin-Massanet
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Publications:
+  Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog:
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
