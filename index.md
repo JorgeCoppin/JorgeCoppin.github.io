@@ -42,7 +42,7 @@ p {
 
 I'm a PhD student at [Cornell University's EAS Department](https://www.eas.cornell.edu/eas), where I'm advised by Britney Schmidt.
 
-Prior to grad school, I studied Mechanical Engineering at the [Univeristy of Puerto Rico](https://www.uprm.edu/portada/). w
+Prior to grad school, I studied Mechanical Engineering at the [Univeristy of Puerto Rico](https://www.uprm.edu/portada/).
 
 <!-- I'm currently in my senior year working toward a Robotics Engineering degree at Olin College of Engineering, a small undergraduate-only school in Needham, MA. At Olin, I do research with the [Olin Robotics Lab](https://olinrobotics.github.io/) and currently lead the [Ground Vehicle Research group](https://github.com/olinrobotics/gravl/wiki), doing work with autonomous vehicles in unstructured environments. After Olin, I hope to continue working on research projects that leverage machine learning to solve navigation & perception problems on board mobile exploration robots. -->
 
