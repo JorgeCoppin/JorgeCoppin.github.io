@@ -57,9 +57,3 @@ If you're interested in learning more about the projects I've worked on, check o
       CV
   </a>
 </center>
-
-<! --    </td> --> 
- <! --  </tr> --> 
-<! -- </table> --> 
-
-<! -- </body> --> 
