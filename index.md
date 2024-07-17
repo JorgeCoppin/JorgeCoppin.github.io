@@ -42,7 +42,7 @@ p {
 
 I'm a PhD student at [Cornell University's EAS Department](https://www.eas.cornell.edu/eas), where I'm advised by Dr. Britney Schmidt.
 
-Prior to grad school, I studied Mechanical Engineering at the [Univeristy of Puerto Rico](https://www.uprm.edu/portada/).
+Prior to Cornell, I graduated with a B.S. in Mechanical Engineering from the [Univeristy of Puerto Rico](https://www.uprm.edu/portada/).
 
 If you're interested in learning more about the projects I've worked on, check out the links below!
 
