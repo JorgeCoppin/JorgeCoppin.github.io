@@ -37,10 +37,10 @@ p {
 </head>
 <!-- font-size: 13px;-->
 
-## Biography
+## Bio
 <img style="float: right;" src="/assets/img/JorgeCoppin3.jpg" width="30%">
 
-I'm a PhD student at [Cornell University's EAS Department](https://www.eas.cornell.edu/eas), where I'm advised by Britney Schmidt.
+I'm a PhD student at [Cornell University's EAS Department](https://www.eas.cornell.edu/eas), where I'm advised by Dr. Britney Schmidt.
 
 Prior to grad school, I studied Mechanical Engineering at the [Univeristy of Puerto Rico](https://www.uprm.edu/portada/).
 
