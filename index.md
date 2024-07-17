@@ -58,8 +58,8 @@ If you're interested in learning more about the projects I've worked on, check o
   </a>
 </center>
 
-    </td>
-  </tr>
-</table>
+<! --    </td> --> 
+ <! --  </tr> --> 
+<! -- </table> --> 
 
-</body> -->
+<! -- </body> --> 
