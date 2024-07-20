@@ -26,7 +26,7 @@ body {
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.6); /* Darker overlay for better readability */
-  backdrop-filter: blur(5px); /* Less intense blur effect */
+  backdrop-filter: blur(2px); /* Less intense blur effect */
   z-index: -1; /* Make sure it is behind all content */
 }
 
@@ -71,6 +71,11 @@ p {
   text-align: justify;
 }
 
+a {
+  color: #00ffcc; /* Stand out color for hyperlinks */
+  text-decoration: underline; /* Underline for clear identification */
+}
+
 .center-buttons {
   display: flex;
   justify-content: center;
@@ -100,9 +105,9 @@ p {
 <div class="bio">
   <img src="/assets/img/JorgeCoppin3.jpg" alt="Jorge Coppin-Massanet">
   <p>
-    I am a first-generation Geological Sciences and Astronomy grad student in the <a href="https://schmidt.astro.cornell.edu/" style="color: white;">Planetary Habitability and Technology Lab</a> at Cornell University's <a href="https://www.eas.cornell.edu/eas" style="color: white;">Earth and Atmospheric Sciences Department</a>, where I work under the guidance of Dr. Britney Schmidt. My research endeavors encompass a wide spectrum of subjects such as exploring the potential for extraterrestrial life in icy moons, designing and testing new instrumentation for detecting biosignatures in extreme environments, and understanding the impacts of climate change on the biodiversity of Earth's polar regions. My work embodies a passion for understanding the limits and extent of life on Earth and the rest of our Solar System, with a particular emphasis on making accessible open-science available to underrepresented communities, advocating for climate justice, and decolonizing scientific practices.
+    I am a first-generation Geological Sciences and Astronomy grad student in the <a href="https://schmidt.astro.cornell.edu/">Planetary Habitability and Technology Lab</a> at Cornell University's <a href="https://www.eas.cornell.edu/eas">Earth and Atmospheric Sciences Department</a>, where I work under the guidance of Dr. Britney Schmidt. My research endeavors encompass a wide spectrum of subjects such as exploring the potential for extraterrestrial life in icy moons, designing and testing new instrumentation for detecting biosignatures in extreme environments, and understanding the impacts of climate change on the biodiversity of Earth's polar regions. My work embodies a passion for understanding the limits and extent of life on Earth and the rest of our Solar System, with a particular emphasis on making accessible open-science available to underrepresented communities, advocating for climate justice, and decolonizing scientific practices.
     <br><br>
-    Before joining Cornell, I earned my B.S. in Mechanical Engineering from the <a href="https://www.uprm.edu/portada/" style="color: white;">University of Puerto Rico</a>, where I developed a strong foundation in engineering principles and gained valuable research experience.
+    Before joining Cornell, I earned my B.S. in Mechanical Engineering from the <a href="https://www.uprm.edu/portada/">University of Puerto Rico</a>, where I developed a strong foundation in engineering principles and gained valuable research experience.
     <br><br>
     If you're interested in learning more about my work and projects, please check out the links below!
   </p>
