@@ -15,6 +15,19 @@ body {
   background-attachment: fixed;
   background-position: center;
   color: white; /* Ensures text is readable */
+  margin: 0;
+  padding: 0;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2); /* White with opacity */
+  backdrop-filter: blur(10px); /* Frosted glass effect */
+  z-index: -1; /* Make sure it is behind all content */
 }
 
 @media only screen and (max-width: 580px) {
@@ -53,6 +66,9 @@ p {
 </style>
 </head>
 
+<body>
+<div class="overlay"></div>
+
 ## Bio
 <div class="bio">
   <img src="/assets/img/JorgeCoppin3.jpg" width="30%" alt="Jorge Coppin-Massanet">
@@ -66,7 +82,4 @@ p {
 </div>
 
 <center>
-  <a href="/publications" class="button buttonblack-fixed" style="text-decoration: none">Publications</a>
-  <a href="/projects" class="button buttonblack-fixed" style="text-decoration: none">Projects</a>
-  <a href="/cv" class="button buttonblack-fixed" style="text-decoration: none" target="_blank" rel="noopener noreferrer">CV</a>
-</center>
+  <a href="/publications" class="button buttonblack-fixed" style="text-decoration: non
