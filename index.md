@@ -8,6 +8,15 @@ show-avatar: false
 
 <head>
 <style>
+body {
+  background-image: url('/assets/img/37394246471_9534b3d0a3_o.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: white; /* Ensures text is readable */
+}
+
 @media only screen and (max-width: 580px) {
   .full {
     display: block;
@@ -44,7 +53,7 @@ p {
 </style>
 </head>
 
-
+## Bio
 <div class="bio">
   <img src="/assets/img/JorgeCoppin3.jpg" width="30%" alt="Jorge Coppin-Massanet">
   <p>
