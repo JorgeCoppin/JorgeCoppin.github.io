@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploring Planetary Oceans
+title: Exploring Oceans Across The Solar System
 subtitle: Ph.D. Student | Engineer | Astrobiologist
 bigimg: /assets/img/jpegPIA21048.jpg
 show-avatar: false
