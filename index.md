@@ -25,8 +25,8 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(255, 255, 255, 0.2); /* White with opacity */
-  backdrop-filter: blur(10px); /* Frosted glass effect */
+  background: rgba(255, 255, 255, 0.1); /* Reduced opacity for less frosting */
+  backdrop-filter: blur(5px); /* Less intense blur effect */
   z-index: -1; /* Make sure it is behind all content */
 }
 
@@ -82,4 +82,8 @@ p {
 </div>
 
 <center>
-  <a href="/publications" class="button buttonblack-fixed" style="text-decoration: non
+  <a href="/publications" class="button buttonblack-fixed" style="text-decoration: none">Publications</a>
+  <a href="/projects" class="button buttonblack-fixed" style="text-decoration: none">Projects</a>
+  <a href="/cv" class="button buttonblack-fixed" style="text-decoration: none" target="_blank" rel="noopener noreferrer">CV</a>
+</center>
+</body>
