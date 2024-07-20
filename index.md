@@ -30,50 +30,40 @@ body {
   z-index: -1; /* Make sure it is behind all content */
 }
 
-@media only screen and (max-width: 580px) {
-  .full {
-    display: block;
-    width: 100%;
-    border: 5px solid white;
-  }
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
 
+.subtitle {
+  font-size: 1.5rem;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 580px) {
   .subtitle {
     font-size: 1rem; /* Adjust font size for mobile */
-    white-space: nowrap; /* Prevent subtitle from breaking */
   }
 }
 
-table {
-  border-collapse: collapse;
-  border: 5px solid white;
-}
-
-th, td {
-  border-collapse: collapse;
-  border: 5px solid white;
-}
-
-h3 {
-  text-rendering: optimizeLegibility;
-  margin-bottom: 21px;
-}
-
-p {
-  text-rendering: optimizeLegibility;
-  margin-bottom: 21px;
-  text-align: justify;
+.bio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .bio img {
-  float: right;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
   border-radius: 8px;
   width: 30%; /* Ensure responsive sizing */
 }
 
 .bio p {
   text-align: justify;
+  max-width: 600px;
 }
 
 a {
@@ -107,8 +97,13 @@ a {
 <body>
 <div class="overlay"></div>
 
+<div class="container">
+  <h1>Exploring Oceans Across The Solar System</h1>
+  <h2 class="subtitle">Ph.D. Student | Engineer | Astrobiologist</h2>
+</div>
+
 <div class="bio">
-  <img src="/assets/img/JorgeCoppin3.jpg" alt="Jorge Coppin-Massanet NASA Portrait">
+  <img src="/assets/img/JorgeCoppin3.jpg" alt="Jorge Coppin-Massanet">
   <p>
     I am a first-generation Geological Sciences and Astronomy grad student in the <a href="https://schmidt.astro.cornell.edu/">Planetary Habitability and Technology Lab</a> at Cornell University's <a href="https://www.eas.cornell.edu/eas">Earth and Atmospheric Sciences Department</a>, where I work under the guidance of Dr. Britney Schmidt. My research endeavors encompass a wide spectrum of subjects such as exploring the potential for extraterrestrial life in icy moons, designing and testing new instrumentation for detecting biosignatures in extreme environments, and understanding the impacts of climate change on the biodiversity of Earth's polar regions. My work embodies a passion for understanding the limits and extent of life on Earth and the rest of our Solar System, with a particular emphasis on making accessible open-science available to underrepresented communities, advocating for climate justice, and decolonizing scientific practices.
     <br><br>
@@ -124,3 +119,4 @@ a {
   <a href="/cv" class="button" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
 </body>
+
