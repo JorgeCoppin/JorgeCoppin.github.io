@@ -9,7 +9,7 @@ show-avatar: false
 <head>
 <style>
 body {
-  background-image: url('/assets/img/37394246471_9534b3d0a3_o.jpg');
+  background-image: url('/assets/img/37363655772_4d8bd4a4d7_o.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
