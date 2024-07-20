@@ -69,7 +69,6 @@ p {
 <body>
 <div class="overlay"></div>
 
-## Bio
 <div class="bio">
   <img src="/assets/img/JorgeCoppin3.jpg" width="30%" alt="Jorge Coppin-Massanet">
   <p>
