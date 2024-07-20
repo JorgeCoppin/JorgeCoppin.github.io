@@ -30,12 +30,16 @@ h3 {
 p {
   text-rendering: optimizeLegibility;
   margin-bottom: 21px;
+  text-align: justify;
 }
 .bio img {
   float: right;
   margin-left: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
+}
+.bio p {
+  text-align: justify;
 }
 </style>
 </head>
