@@ -1,4 +1,10 @@
-
+---
+layout: page
+title: Exploring Oceans Across The Solar System
+subtitle: Ph.D. Student | Engineer | Astrobiologist
+bigimg: /assets/img/jpegPIA21048.jpg
+show-avatar: false
+---
 
 <head>
 <style>
@@ -32,8 +38,13 @@ body {
   padding: 20px;
 }
 
+h1 {
+  font-size: 3rem; /* Make the title bigger */
+}
+
 .subtitle {
   font-size: 1.5rem;
+  font-weight: normal; /* Unbolden the subtitle */
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -108,6 +119,13 @@ a {
     If you're interested in learning more about my work and projects, please check out the links below!
   </p>
 </div>
+
+<div class="center-buttons">
+  <a href="/publications" class="button">Publications</a>
+  <a href="/projects" class="button">Projects</a>
+  <a href="/cv" class="button" target="_blank" rel="noopener noreferrer">CV</a>
+</div>
+</body>
 
 <div class="center-buttons">
   <a href="/publications" class="button">Publications</a>
