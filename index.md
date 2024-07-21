@@ -1,11 +1,3 @@
----
-layout: page
-title: Exploring Oceans Across The Solar System
-subtitle: Ph.D. Student | Engineer | Astrobiologist
-bigimg: /assets/img/jpegPIA21048.jpg
-show-avatar: false
----
-
 <head>
 <style>
 body {
