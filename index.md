@@ -36,6 +36,7 @@ body {
 
 h1 {
   font-size: 4rem;
+  margin: 10px 0;
 }
 
 .subtitle {
@@ -46,27 +47,24 @@ h1 {
   text-overflow: ellipsis;
 }
 
-@media only screen and (max-width: 580px) {
-  .subtitle {
-    font-size: 1rem;
-  }
-}
-
 .bio {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 20px;
 }
 
 .bio img {
   margin: 20px;
   border-radius: 8px;
   width: 30%;
+  max-width: 200px;
 }
 
 .bio p {
   text-align: justify;
   max-width: 600px;
+  padding: 0 20px;
 }
 
 a {
@@ -76,7 +74,8 @@ a {
 
 .center-buttons {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   gap: 20px;
   margin-top: 20px;
 }
@@ -93,6 +92,56 @@ a {
 .button:hover {
   background: white;
   color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 3rem;
+  }
+  
+  .subtitle {
+    font-size: 1.2rem;
+  }
+
+  .bio img {
+    width: 50%;
+  }
+
+  .bio p {
+    padding: 0 10px;
+  }
+
+  .center-buttons {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  .bio img {
+    width: 70%;
+  }
+
+  .bio p {
+    padding: 0 5px;
+  }
+
+  .center-buttons {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .button {
+    padding: 8px 15px;
+  }
 }
 </style>
 </head>
