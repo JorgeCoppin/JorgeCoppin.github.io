@@ -1,4 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jorge Coppin-Massanet</title>
 <style>
 body {
   background-image: url('/assets/img/37363655772_4d8bd4a4d7_o.jpg');
@@ -6,7 +11,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  color: white; /* Ensures text is readable */
+  color: white;
   margin: 0;
   padding: 0;
 }
@@ -17,9 +22,9 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.6); /* Darker overlay for better readability */
-  backdrop-filter: blur(2px); /* Less intense blur effect */
-  z-index: -1; /* Make sure it is behind all content */
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(2px);
+  z-index: -1;
 }
 
 .container {
@@ -31,12 +36,12 @@ body {
 }
 
 h1 {
-  font-size: 3rem; /* Make the title bigger */
+  font-size: 3rem;
 }
 
 .subtitle {
   font-size: 1.5rem;
-  font-weight: normal; /* Unbolden the subtitle */
+  font-weight: normal;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -44,7 +49,7 @@ h1 {
 
 @media only screen and (max-width: 580px) {
   .subtitle {
-    font-size: 1rem; /* Adjust font size for mobile */
+    font-size: 1rem;
   }
 }
 
@@ -57,7 +62,7 @@ h1 {
 .bio img {
   margin: 20px;
   border-radius: 8px;
-  width: 30%; /* Ensure responsive sizing */
+  width: 30%;
 }
 
 .bio p {
@@ -66,14 +71,14 @@ h1 {
 }
 
 a {
-  color: #00ffcc; /* Stand out color for hyperlinks */
-  text-decoration: underline; /* Underline for clear identification */
+  color: #00ffcc;
+  text-decoration: underline;
 }
 
 .center-buttons {
   display: flex;
   justify-content: center;
-  gap: 20px; /* Space between buttons */
+  gap: 20px;
   margin-top: 20px;
 }
 
@@ -118,3 +123,4 @@ a {
   <a href="/cv" class="button" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
 </body>
+</html>
