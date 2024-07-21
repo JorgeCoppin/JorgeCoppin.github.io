@@ -119,4 +119,3 @@ a {
   <a href="/cv" class="button" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
 </body>
-
