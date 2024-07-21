@@ -41,6 +41,8 @@ body {
 .subtitle {
   font-size: 1.5rem;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 @media only screen and (max-width: 580px) {
