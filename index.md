@@ -118,10 +118,3 @@ a {
   <a href="/cv" class="button" target="_blank" rel="noopener noreferrer">CV</a>
 </div>
 </body>
-
-<div class="center-buttons">
-  <a href="/publications" class="button">Publications</a>
-  <a href="/projects" class="button">Projects</a>
-  <a href="/cv" class="button" target="_blank" rel="noopener noreferrer">CV</a>
-</div>
-</body>
